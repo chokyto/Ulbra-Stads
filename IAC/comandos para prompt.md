@@ -15,6 +15,14 @@
 -git status : verifica o estado do repositório local
 
 ----
+
 O git é demais!
 	Lembrando que o git é uma ferramenta de versionamento de arquivos
 	O github é um repositóriode projetos que utiliza o git.
+
+-git pull: pega as alterações no git origi (remoto)
+- git checkout nome_da_branch : faz login na branch especificada
+- *git merge* : mescla alterações de uma branch com outra.
+ *deve fazer o merge logado na branch que vai receber alterações.
+ 
+
