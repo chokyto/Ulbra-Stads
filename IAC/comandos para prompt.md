@@ -15,3 +15,6 @@
 -git status : verifica o estado do repositório local
 -git pull: pega as alterações no git origi (remoto)
 - git checkout nome_da_branch : faz login na branch especificada
+- *git merge* : mescla alterações de uma branch com outra.
+ *deve fazer o merge logado na branch que vai receber alterações.
+ 
